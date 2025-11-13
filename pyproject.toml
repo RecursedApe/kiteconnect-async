@@ -1,13 +1,14 @@
 [project]
 name = "kiteconnect-async"
-version = "0.1.0"
+version = "0.1.4"
 description = ""
 authors = [
     {name = "RecursedApe",email = "recursedape@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11.2"
 dependencies = [
+    "httpx (>=0.28.1,<0.29.0)"
 ]
 
 [tool.poetry]

@@ -1,0 +1,7 @@
+__title__ = "kiteconnect"
+__description__ = "The unofficial Python sync/async client for the Kite Connect trading API"
+__download_url__ = "https://github.com/RecursedApe/kiteconnect-async."
+__version__ = "5.0.1"
+__author__ = "RecuresedApe"
+__author_email__ = "recursedape@gmail.com"
+__license__ = "MIT"
